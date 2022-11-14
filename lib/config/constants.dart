@@ -1,0 +1,1 @@
+const kWelcomeScreenDisplayed = 'welcomeScreenDisplayed';
